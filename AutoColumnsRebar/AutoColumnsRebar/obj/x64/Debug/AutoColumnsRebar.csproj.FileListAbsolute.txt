@@ -1,0 +1,12 @@
+E:\courses\revit Api\Addin\AutoRebar\Columns\AutoColumnsRebar\AutoColumnsRebar\AutoColumnsRebar\bin\x64\Debug\ColumnsRebar.addin
+E:\courses\revit Api\Addin\AutoRebar\Columns\AutoColumnsRebar\AutoColumnsRebar\AutoColumnsRebar\bin\x64\Debug\AutoColumnsRebar.dll
+E:\courses\revit Api\Addin\AutoRebar\Columns\AutoColumnsRebar\AutoColumnsRebar\AutoColumnsRebar\bin\x64\Debug\AutoColumnsRebar.pdb
+E:\courses\revit Api\Addin\AutoRebar\Columns\AutoColumnsRebar\AutoColumnsRebar\AutoColumnsRebar\obj\x64\Debug\AutoColumnsRebar.csproj.AssemblyReference.cache
+E:\courses\revit Api\Addin\AutoRebar\Columns\AutoColumnsRebar\AutoColumnsRebar\AutoColumnsRebar\obj\x64\Debug\AutoColumnsRebar.csproj.CoreCompileInputs.cache
+E:\courses\revit Api\Addin\AutoRebar\Columns\AutoColumnsRebar\AutoColumnsRebar\AutoColumnsRebar\obj\x64\Debug\AutoColumnsRebar.dll
+E:\courses\revit Api\Addin\AutoRebar\Columns\AutoColumnsRebar\AutoColumnsRebar\AutoColumnsRebar\obj\x64\Debug\AutoColumnsRebar.pdb
+E:\courses\revit Api\Addin\AutoRebar\Columns\AutoColumnsRebar\AutoColumnsRebar\AutoColumnsRebar\obj\x64\Debug\UserControl.g.cs
+E:\courses\revit Api\Addin\AutoRebar\Columns\AutoColumnsRebar\AutoColumnsRebar\AutoColumnsRebar\obj\x64\Debug\AutoColumnsRebar_MarkupCompile.cache
+E:\courses\revit Api\Addin\AutoRebar\Columns\AutoColumnsRebar\AutoColumnsRebar\AutoColumnsRebar\obj\x64\Debug\AutoColumnsRebar_MarkupCompile.lref
+E:\courses\revit Api\Addin\AutoRebar\Columns\AutoColumnsRebar\AutoColumnsRebar\AutoColumnsRebar\obj\x64\Debug\UserControl.baml
+E:\courses\revit Api\Addin\AutoRebar\Columns\AutoColumnsRebar\AutoColumnsRebar\AutoColumnsRebar\obj\x64\Debug\AutoColumnsRebar.g.resources

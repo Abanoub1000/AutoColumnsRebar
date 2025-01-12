@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<RevitAddIns>
+
+  <AddIn Type="Command">
+
+    <Name>Auto Columns Rebar</Name>
+
+    <FullClassName>AutoColumnsRebar.Main</FullClassName>
+
+    <Text>Auto Columns Rebar</Text>
+
+    <Description>automated tool to rebar columns </Description>
+
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+
+    <Assembly>AutoColumnsRebar.dll</Assembly>
+    <AddInId>
+      8F95DD15-667B-4E65-8158-015DFE0F7C15
+      </AddInId>
+
+    <VendorId>Abanoub Gamal</VendorId>
+
+    <VendorDescription>Abanoub Gamal, AEC Software Engineering</VendorDescription>
+
+  </AddIn>
+
+</RevitAddIns>
